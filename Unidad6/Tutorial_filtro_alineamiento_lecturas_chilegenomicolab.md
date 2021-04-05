@@ -185,7 +185,10 @@ Ejemplo:
 ```sh
 qualimap bamqc -bam S10_sorted_RG.bam - gff ../181004_curso_calidad_datos_NGS/regiones_blanco.bed -nw 400 -hm 3
 ```
-
+Ejemplo Actualizado (210405):
+```sh
+/opt/qualimap_v2.2.1_2/qualimap bamqc -bam S10_sorted_RG.bam - gff ../181004_curso_calidad_datos_NGS/regiones_blanco.bed -nw 400 -hm 3
+```
 
 ### 3 Tarea
 
